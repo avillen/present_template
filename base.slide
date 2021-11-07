@@ -1,0 +1,22 @@
+# [Title]
+
+Álvaro Villén
+2 Jan 2006
+alvaro.villen@gmail.com
+https://github.com/avillen
+
+## [Slide Title]
+
+[Text]
+
+.image /images/gopher.png 200 200
+.code /code/hello.go /^func main/,/^}/
+.code /code/hello.go /^func main/,/^}/
+.background /images/background.jpg
+
+## [Slide Title without content]
+
+## [Links]
+
+.link https://google.com Google website
+.link https://google.com Google website
